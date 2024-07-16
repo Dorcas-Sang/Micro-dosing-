@@ -1,15 +1,16 @@
 # Micro-dosing
-DecLaRe project is co-experimenting with farmers in the Savannah and Northern region of Northern Ghana in 3 communities (Busunu, Tilape and Pond-Tamale) NPK microdosing in an agroforestry system of maize and shea tree. 
+Fertilizer microdosing refers to the technique of applying a small dose (2-6 g) of NPK-fertilizer into the planting hole together with the seed at the time of planting or next to the seedling immediately after emergence. In comparison to no fertilizer application and its broadcasting, microdosing is reported to increase yield by 70% and 50% respectively. However, so far all reported results about microdosing were obtained from crop monocultures. To fill existing knowledge gaps for microdosing effectiveness under agroforestry conditions, the DecLaRe project is co-experimenting with farmers NPK microdosing in an agroforestry system of maize and shea tree (Vitellaria paradoxa) parklands in the Savannah Region of Ghana.
+
 The decision is to assess the farm economic benefit of micro-dosing in a system of maize and shea tree. 
-Considering the status quo this decision comes with 4 alternatives: 
-1. Maize monoculture (status quo)
-2. Maize + Shea tree (status quo)
-3. Maize monoculture+ NPK microdosing
-5. Maize + shea tree + NPK microdosing
+Considering the status quo this decision comes with 3 alternatives: 
+1. Maize + Shea tree (status quo)
+2. Maize+ shea tree + Full NPK 
+3. Maize + shea tree + NPK microdosing
 
 Figure 1: A simple Impact pathway of the system
-![Micro_dosing_impact_pathways drawio](https://github.com/user-attachments/assets/1ac5010e-6874-4f7d-82c9-14e4c3ce17b9)
-The bright colors in the conceptual model mean that those variables will be switching on and off depending on which alternative we are considering in the NPV
+![Micro_dosing_impact_pathways drawio](https://github.com/user-attachments/assets/6c37794d-abc0-4d58-84b3-3a2ebb7920f6)
 
-Here we are assuming 2 status quo because other than microdosing NPK, the DecLaRe project wants to also see the benefit of having shea tree in the system (testing maize yield away and under the canopy).
+
+The bright colour on fertilizer in the conceptual model means that the variable will switch on and off depending on which alternative (2 or 3) we consider in the NPV. 
+
 
