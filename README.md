@@ -7,10 +7,11 @@ Considering the status quo this decision comes with 3 alternatives:
 2. Maize+ shea tree + Full NPK 
 3. Maize + shea tree + NPK microdosing
 
-Figure 1: A simple Impact pathway of the system
+Figure 1: A simple Impact pathways of the system
 
 
-![Micro_dosing_impact_pathways drawio](https://github.com/user-attachments/assets/6c37794d-abc0-4d58-84b3-3a2ebb7920f6)
+![Micro_dosing_impact_pathways drawio](https://github.com/user-attachments/assets/c090ca32-b426-4ef4-b9d5-74bff6ea9fa9)
+
 
 
 The bright colour on fertilizer in the conceptual model means that the variable will switch on and off depending on which alternative (2 or 3) we consider in the NPV. 
