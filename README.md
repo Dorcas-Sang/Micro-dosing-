@@ -8,6 +8,8 @@ Considering the status quo this decision comes with 3 alternatives:
 3. Maize + shea tree + NPK microdosing
 
 Figure 1: A simple Impact pathway of the system
+
+
 ![Micro_dosing_impact_pathways drawio](https://github.com/user-attachments/assets/6c37794d-abc0-4d58-84b3-3a2ebb7920f6)
 
 
